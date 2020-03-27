@@ -1,0 +1,4 @@
+#Sun Mar 22 19:59:22 EET 2020
+base.0=D\:\\ali android\\Tweety\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

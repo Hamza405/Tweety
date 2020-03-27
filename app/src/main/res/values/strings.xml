@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tweety</string>
+    <string name="Mtn_send">MTN</string>
+    <string name="exit">خروج</string>
+    <string name="clear">مسح الكل</string>
+    <string name="Syriatel_send">Syriatel</string>
+    <string name="number">أدخل رقم الزبون</string>
+    <string name="rsed">أدخل الرصيد</string>
+    <string name="syriatel_key">كلمة سر Syriatel</string>
+    <string name="mtn_key">كلمة سر MTN</string>
+    <string name="sims_position">موضع الشرائح</string>
+    <string name="clear_data">مسح بيانات التطبيق</string>
+    <string name="about">حول</string>
+    <string name="syriatel_password">كلمة سر Syriatel</string>
+    <string name="enter_syriatel_password">ادخل كلمة سر Syriatel</string>
+    <string name="Save">حفظ</string>
+    <string name="enter_password">يرجى ادخال كلمة سر</string>
+    <string name="replay_number">أعادة أستخدام الرقم</string>
+    <string name="replay_process">تكرار العملية</string>
+    <string name="Cancel" translatable="false">الغاء</string>
+    <string name="send">ارسال</string>
+    <string name="the_number">الرقم :</string>
+    <string name="nn">الرقم :</string>
+    <string name="the_balance">الرصيد :</string>
+    <string name="MTN_password">كلمة سر MTN</string>
+    <string name="clear_data_ok">سيتم مسح كلمات سر و مواضع الشرائح ؟!</string>
+    <string name="del">مسح</string>
+    <string name="about_c">"يرجى مسح بيانات التطبيق عند ضبط مواضع الشرائح مرة اخرى"  "\n"  "\n"  "طور من قبل حمزة الشيخ "  "\n"  "\n"  "hamzash863@gmail.com"  "\n"  "hamzash1998@yahoo.com"  "\n"  "tel:+963932012299"</string>
+    <string name="dont_put_sim">لم تقم بادخال كلمة سر الشريحه</string>
+    <string name="dont_put_sim_position">لم تقم باختيار موضع الشرائح</string>
+    <string name="enter_mtn_password">أدخل كلمة سر MTN</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="enter_the_correct_number">ادخل الرقم الصحيح</string>
+    <string name="null_replay_process">لا توجد عملية تحويل سابقة</string>
+
+</resources>

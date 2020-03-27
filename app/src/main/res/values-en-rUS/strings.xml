@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tweety</string>
+    <string name="Mtn_send">MTN</string>
+    <string name="clear">Clear all</string>
+    <string name="exit">Exit</string>
+    <string name="Syriatel_send">Syriatel</string>
+    <string name="number" >Enter the number</string>
+    <string name="rsed" >Enter the balance</string>
+    <string name="syriatel_key" >Syriatel password</string>
+    <string name="mtn_key">MTN password</string>
+    <string name="about">About</string>
+    <string name="clear_data">Clear application data</string>
+    <string name="sims_position">Sims position</string>
+    <string name="Cancel">Cancel</string>
+    <string name="MTN_password">MTN password</string>
+    <string name="Save">Save</string>
+    <string name="clear_data_ok">Passwords and slides will be erased ?!</string>
+    <string name="del">Delete</string>
+    <string name="replay_process">Replay process</string>
+    <string name="dont_put_sim">"You have not inserted the sim password"</string>
+    <string name="enter_password">Enter the password</string>
+    <string name="enter_syriatel_password">Enter syriatel password</string>
+    <string name="saved">Saved</string>
+    <string name="send">Send</string>
+    <string name="syriatel_password">Syriatel password</string>
+    <string name="about_c">"Please clear the application data when adjusting the slice positions again"  "\n"  "\n"  "Developed by Hamza Al Sheikh "  "\n"  "\n"  "hamzash863@gmail.com"  "\n"  "hamzash1998@yahoo.com"  "\n"  "tel:+963932012299"</string>
+    <string name="dont_put_sim_position">You have not chosen the position of the sims</string>
+    <string name="enter_mtn_password">Enter mtn password</string>
+    <string name="the_number">The number :</string>
+    <string name="nn">asd</string>
+    <string name="the_balance">The balance :</string>
+    <string name="enter_the_correct_number">Enter the correct number</string>
+    <string name="replay_number">Replay number</string>
+    <string name="null_replay_process">No previous conversion</string>
+</resources>
